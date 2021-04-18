@@ -9,3 +9,5 @@ I like to code but I don't usually do anything advanced. I'm a student from Pola
 C++, Python (Mostly Discord.py library)
 ### Ones I have coded something with but don't know much about:
 Java (For Minecraft mods), HTML
+### Currently learning:
+C#
