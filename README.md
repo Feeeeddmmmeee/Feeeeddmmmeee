@@ -1,6 +1,6 @@
 # Hi there, I'm **Feeeeddmmmeee** 👋
 I like to code but I don't usually do anything advanced. I'm a student from Poland who likes programming, maths and chemistry.
-
+I'm currently working on my [Minecraft Fabric mod](https://github.com/Feeeeddmmmeee/MinecraftEssentials) in Java and my Python [API wrapper](https://github.com/Feeeeddmmmeee/intersection.py).
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=feeeeddmmmeee&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/Feeeeddmmmeee/Feeeeddmmmeee)
 
