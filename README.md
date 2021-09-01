@@ -6,6 +6,6 @@ I'm currently working on my [Minecraft Fabric mod](https://github.com/Feeeeddmmm
 
 # Languages I know
 ### Ones I'm quite fluent with:
-C++, Python (Mostly Discord.py library), Java (but only Minecraft mods)
+C++, Python, Java (but only Minecraft Fabric mods)
 ### Ones I have coded something with but don't know much about:
 C#, HTML
