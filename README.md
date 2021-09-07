@@ -5,6 +5,8 @@ I'm currently working on my [Minecraft Fabric mod](https://github.com/Feeeeddmmm
 [![github stats](https://github-readme-stats.vercel.app/api?username=feeeeddmmmeee&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/Feeeeddmmmeee/Feeeeddmmmeee)
 
 # Languages I know
+### Currently learning:
+C++
 ### Ones I'm quite fluent with:
 C++, Python, Java (but only Minecraft Fabric mods)
 ### Ones I have coded something with but don't know much about:
